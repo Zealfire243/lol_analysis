@@ -4,7 +4,7 @@ Using the League of Legends API, I am sourcing data to analyze what it takes to 
 
 ## Currently Working On:
 
-Right now my focus is to set up the dataset itself. I am setting up functions in order to create my own pipeline. These functions will be able to take any LoL match and consolidate it into useful information that can fit in a single row. 
+Right now my focus is to set up the dataset itself. I am setting up functions in order to create my own pipeline. These functions will be able to take any LoL match and consolidate it into useful information that can fit in a single row. As of now, what I have so far is pretty well documented and I hope you give it a read. 
 
 I also plan to fill out this Readme as I go. 
 

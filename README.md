@@ -10,7 +10,11 @@ I also plan to fill out this Readme as I go.
 
 ## Overview
 
+
+
 ## Business Problem
+
+What variables effect whether or not you win the game. How to use that information to help League Of Legends players, specifically pro players or those wanting to become a pro. 
 
 ## Methods
 

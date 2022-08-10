@@ -40,5 +40,6 @@ Tool to help everyday players analyze random league games to know more about wha
 <a href="https://linkedin.com/in/ethan-helder" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a> 
-<a href="mailto:helderethan@gmail.com" rel="nofollow"><img src= "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<a href="mailto:helderethan@gmail.com" rel="nofollow"><img src= "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+style="margin-bottom: 5px;" alt=gmail />
 </a>
